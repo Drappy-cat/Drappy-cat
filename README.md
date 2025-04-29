@@ -66,7 +66,7 @@
 ---
 
 ### 📌 Fun Fact
-> 💤 *"Mending turu."* — Drappy, 2025
+> 💤 *"Mending turu dan mangan."* — Drappy, 2025
 
 
 <!--
