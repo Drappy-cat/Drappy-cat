@@ -1,6 +1,6 @@
 ## Hi there 👋
 <p align="center">
-  <img src="https://i.gifer.com/xK.gif" width="600" alt="Rainy Drappy GIF" />
+  <img src="https://i.gifer.com/3BBS.gif" width="600" alt="Rainy Drappy GIF" />
 </p>
 
 <h2 align="center">Hey there, I'm <strong>Drappy</strong> 🌧</h2>
