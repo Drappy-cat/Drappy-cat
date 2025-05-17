@@ -15,17 +15,17 @@
   <tr>
     <td align="left" width="60%">
       <p>
-        🚀 I'm a proud <strong>Student beginner developer</strong> exploring the world of code! <br>
-        🎯 Currently learning and practicing:
+          🚀 I'm a passionate <strong>Computer Science student</strong> in my second semester, deeply interested in the world of programming and technology.<br><br>
+        🎯 My current focus includes:
         <ul>
-          <li>HTML & CSS for web basics</li>
-          <li>Java for backend & OOP</li>
-          <li>Python for scripting and fun</li>
+          <li>HTML & CSS for web development fundamentals</li>
+          <li>Java for backend and Object-Oriented Programming (OOP)</li>
+          <li>Python for scripting and automation</li>
         </ul>
         🌱 Always open to learning something new — one keystroke at a time!
       </p>
     </td>
-    <td align="right" width="40%">
+    <td align="center" width="40%">
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHo5M3lzaGhtYzJoemRiOTFuODE4NmFoZDI2ZXpiampzamY5NmFkayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o6ZsZwsU65E0qcok8/giphy.gif" width="150" alt="Coder GIF" />
     </td>
   </tr>
