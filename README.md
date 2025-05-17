@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <p align="center">
   <img src="https://media.giphy.com/media/kFgzrTt798d2w/giphy.gif?cid=ecf05e47zvphahpyrd1pggtlig8rb69trlm6o82y0wyneqew&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600" alt="Rainy Drappy GIF" />
 </p>
