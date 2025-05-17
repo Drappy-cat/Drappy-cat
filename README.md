@@ -66,7 +66,24 @@
 
 </p>
 
+## 🏆 GitHub Trophies
+<p align="center">
+  <a href="https://github.com/Drappy-cat">
+    <img src="https://github-profile-trophy.vercel.app/?username=Drappy-cat&row=2&column=3&margin-w=15&margin-h=15&theme=onedark" alt="GitHub Trophies" />
+  </a>
+</p>
+
 ---
+
+### 📈 Coding Activity
+<p align="center">
+  <a href="https://github.com/Drappy-cat">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Drappy-cat&theme=github-dark&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  </a>
+</p>
+
+---
+
 
 ### 📌 Fun Fact
 > 💤 *"Mending turu dan mangan."* — Drappy, 2025
