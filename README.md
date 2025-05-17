@@ -26,7 +26,7 @@
       </p>
     </td>
     <td align="center" width="40%">
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW4xczU4ZjR1dGhlcXJia3BiY2FjdWRlbXhrMHNpbjlzdG5ybG1zeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VJTAhOzkmy7620OMK8/giphy.gif" width="150" alt="Coder GIF" />
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHo5M3lzaGhtYzJoemRiOTFuODE4NmFoZDI2ZXpiampzamY5NmFkayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o6ZsZwsU65E0qcok8/giphy.gif" width="150" alt="Coder GIF" />
     </td>
   </tr>
 </table>
