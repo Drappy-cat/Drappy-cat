@@ -25,7 +25,7 @@
         🌱 Always open to learning something new — one keystroke at a time!
       </p>
     </td>
-    <td align="center" width="40%">
+    <td align="right" width="40%">
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHo5M3lzaGhtYzJoemRiOTFuODE4NmFoZDI2ZXpiampzamY5NmFkayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o6ZsZwsU65E0qcok8/giphy.gif" width="150" alt="Coder GIF" />
     </td>
   </tr>
