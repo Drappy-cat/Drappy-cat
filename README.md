@@ -15,7 +15,7 @@
   <tr>
     <td align="left" width="60%">
       <p>
-        🚀 I'm a proud <strong>beginner developer</strong> exploring the world of code! <br>
+        🚀 I'm a proud <strong>Student beginner developer</strong> exploring the world of code! <br>
         🎯 Currently learning and practicing:
         <ul>
           <li>HTML & CSS for web basics</li>
