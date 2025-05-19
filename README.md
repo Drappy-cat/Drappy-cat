@@ -21,7 +21,6 @@
           <li>HTML & CSS for web development fundamentals</li>
           <li>Java for backend and Object-Oriented Programming (OOP)</li>
           <li>Python for scripting and automation</li>
-          <li>C C+ and C# </li>
         </ul>
         🌱 Always open to learning something new — one keystroke at a time!
       </p>
