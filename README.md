@@ -77,13 +77,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
 </p>
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <a href="https://github.com/Drappy-cat">
-    <img src="https://github-profile-trophy.vercel.app/?username=Drappy-cat&row=2&column=3&margin-w=15&margin-h=15&theme=onedark" alt="GitHub Trophies" />
-  </a>
-</p>
-
 ---
 
 ### 📈 Coding Activity
