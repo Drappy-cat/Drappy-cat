@@ -12,6 +12,20 @@
 </p>
 
 ---
+### ⚡ Fun Fact
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHpwbWQ0dzR3aTdoOWF3ZTI4Nmo2enVnM2E0cm1lYXlubGQwZnBrNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wyFbTKs9X99Yc/giphy.gif" width="300"/><br>
+</p>
+
+<ul align="center">
+  <li>🤖 I enjoy exploring the world of AI and solving logic problems like puzzles</li>
+  <li>💡 Turning coffee into code is basically my superpower</li>
+  <li>🎧 Coding with chill beats makes debugging feel like meditation</li>
+  <li>🛌 I write better code *after* a "short" nap... which may last 5 hours 😴</li>
+  <li>😂 Sometimes I debug better in my dreams than in real life</li>
+</ul>
+
+---
 
 <table>
   <tr>
@@ -104,20 +118,6 @@
 
 ---
 
-### 📌 Fun Fact
-<h2 align="center">⚡ Fun Facts</h2>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHpwbWQ0dzR3aTdoOWF3ZTI4Nmo2enVnM2E0cm1lYXlubGQwZnBrNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wyFbTKs9X99Yc/giphy.gif" width="300"/><br>
-</p>
-
-<ul align="center">
-  <li>🤖 I enjoy exploring the world of AI and solving logic problems like puzzles</li>
-  <li>💡 Turning coffee into code is basically my superpower</li>
-  <li>🎧 Coding with chill beats makes debugging feel like meditation</li>
-  <li>🛌 I write better code *after* a "short" nap... which may last 5 hours 😴</li>
-  <li>😂 Sometimes I debug better in my dreams than in real life</li>
-</ul>
 
 ---
 <!--
