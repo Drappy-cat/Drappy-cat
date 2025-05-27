@@ -105,9 +105,21 @@
 ---
 
 ### 📌 Fun Fact
-> 💤 *"Mending Turu ."*
+<h2 align="center">⚡ Fun Facts</h2>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300"/><br>
+</p>
 
+<ul align="center">
+  <li>🤖 I enjoy exploring the world of AI and solving logic problems like puzzles</li>
+  <li>💡 Turning coffee into code is basically my superpower</li>
+  <li>🎧 Coding with chill beats makes debugging feel like meditation</li>
+  <li>🛌 I write better code *after* a "short" nap... which may last 5 hours 😴</li>
+  <li>😂 Sometimes I debug better in my dreams than in real life</li>
+</ul>
+
+---
 <!--
 **Drappy-cat/Drappy-cat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
