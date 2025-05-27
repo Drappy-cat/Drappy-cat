@@ -108,7 +108,7 @@
 <h2 align="center">⚡ Fun Facts</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300"/><br>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHpwbWQ0dzR3aTdoOWF3ZTI4Nmo2enVnM2E0cm1lYXlubGQwZnBrNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wyFbTKs9X99Yc/giphy.gif" width="300"/><br>
 </p>
 
 <ul align="center">
