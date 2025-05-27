@@ -51,7 +51,7 @@
 
 ### 🔗 Let's Connect!
 <div align="center">
-  <a href="https://www.youtube.com/@ekaverarina9999" target="_blank">
+  <a href="https://www.youtube.com/@RizmaIndra" target="_blank">
     <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="35" />
   </a>
   <a href="https://www.instagram.com/draapy_/" target="_blank">
