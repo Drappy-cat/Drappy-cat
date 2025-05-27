@@ -1,9 +1,11 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2200&pause=800&color=61DAFB&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+Hi%2C+I'm+Rizma+Indra!;%E2%9C%A8+Aspiring+AI+Engineer+%7C+Software+Developer;%F0%9F%93%9A+Always+Learning+%26+Building+Things" alt="Typing SVG" />
+</p>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/kFgzrTt798d2w/giphy.gif?cid=ecf05e47zvphahpyrd1pggtlig8rb69trlm6o82y0wyneqew&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600" alt="Rainy Drappy GIF" />
 </p>
-
-<h2 align="center">Hey there, I'm <strong>Rizma Indra </strong> 🌧</h2>
 
 <p align="center">
   <em>"Just a coding cloud trying to drizzle some logic into the digital world."</em>
@@ -92,6 +94,15 @@
 
 ---
 
+<h2 align="center">📊 My GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Drappy-cat&show_icons=true&theme=radical&border_radius=15&hide_title=true" height="150" alt="Rizma's GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Drappy-cat&theme=radical&hide_border=false&border_radius=15" height="150" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drappy-cat&layout=compact&theme=radical&border_radius=15" height="150" alt="Top Languages"/>
+</p>
+
+---
 
 ### 📌 Fun Fact
 > 💤 *"Mending Turu ."*
