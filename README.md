@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2200&pause=800&color=61DAFB&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+Hi%2C+I'm+Rizma+Indra!;%E2%9C%A8+Aspiring+AI+Engineer+%7C+Software+Developer;%F0%9F%93%9A+Always+Learning+%26+Building+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2200&pause=800&color=61DAFB&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+Hi%2C+I'm+Rizma+Indra!;%E2%9C%A8+AI+Engineer+%7C+Cyber+Security+%7C+Full+Stack+Developer;%F0%9F%93%9A+Always+Learning+%26+Building+Things" alt="Typing SVG" />
 </p>
-
 
 <p align="center">
   <img src="https://media.giphy.com/media/kFgzrTt798d2w/giphy.gif?cid=ecf05e47zvphahpyrd1pggtlig8rb69trlm6o82y0wyneqew&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600" alt="Rainy Drappy GIF" />
@@ -17,7 +16,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHpwbWQ0dzR3aTdoOWF3ZTI4Nmo2enVnM2E0cm1lYXlubGQwZnBrNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wyFbTKs9X99Yc/giphy.gif" width="300"/><br>
 </p>
 
-<ul align="center">
+<ul align="left">
   <li>🤖 I enjoy exploring the world of AI and solving logic problems like puzzles</li>
   <li>💡 Turning coffee into code is basically my superpower</li>
   <li>🎧 Coding with chill beats makes debugging feel like meditation</li>
@@ -31,12 +30,12 @@
   <tr>
     <td align="left" width="60%">
       <p>
-          🚀 I'm a passionate <strong>Computer Science student</strong> in my second semester, deeply interested in the world of programming and technology.<br><br>
+          🚀 I'm a passionate <strong>informatic student</strong> in my third semester, deeply interested in the world of programming and technology.<br><br>
         🎯 My current focus includes:
         <ul>
-          <li>HTML & CSS for web development fundamentals</li>
-          <li>Java for backend and Object-Oriented Programming (OOP)</li>
+          <li>Full Stack Development for web development fundamentals</li>
           <li>Python for scripting and automation</li>
+          <li>Python for Machine Learning & Deep Learning</li>
         </ul>
         🌱 Always open to learning something new — one keystroke at a time!
       </p>
@@ -86,6 +85,30 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
 </p>
 
+<h4>⚙️ Framework & Library</h4>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React Native" />
+  &nbsp;
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  &nbsp;
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring" />
+  &nbsp;
+  
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch" />
+  &nbsp;
+</p>
+
 #### 🧰 IDEs & Software Tools
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode" />
@@ -93,9 +116,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="JetBrains" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="PyCharm" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="Android Studio" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="Blender 3D" />
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="Android Studio" />  
 </p>
 
 ---
@@ -115,6 +136,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Drappy-cat&show_icons=true&theme=radical&border_radius=15&hide_title=true" height="150" alt="Rizma's GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Drappy-cat&theme=radical&hide_border=false&border_radius=15" height="150" alt="GitHub Streak"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drappy-cat&layout=compact&theme=radical&border_radius=15" height="150" alt="Top Languages"/>
+  <img src="https://komarev.com/ghpvc/?username=Drappy-cat&color=blueviolet&style=flat-square" alt="Profile Views"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Drappy-cat&theme=radical&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+
 </p>
 
 ---
