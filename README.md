@@ -35,7 +35,7 @@
           🚀 I'm a passionate <strong>informatic student</strong> in my third semester, deeply interested in the world of programming and technology.<br><br>
         🎯 My current focus includes:
         <ul>
-          <li>Full Stack Development for web development fundamentals</li>
+          <li>Frontend and backend Development for web development fundamental</li>
           <li>Python for scripting and automation</li>
           <li>Python for Machine Learning & Deep Learning</li>
         </ul>
