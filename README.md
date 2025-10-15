@@ -1,6 +1,8 @@
+<!--
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2200&pause=800&color=61DAFB&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+Hi%2C+I'm+Rizma+Indra!;%E2%9C%A8+AI+Engineer+%7C+Cyber+Security;%F0%9F%93%9A+Always+Learning+%26+Building+Things" alt="Typing SVG" />
 </p>
+-->
 
 <p align="center">
   <img src="https://media.giphy.com/media/kFgzrTt798d2w/giphy.gif?cid=ecf05e47zvphahpyrd1pggtlig8rb69trlm6o82y0wyneqew&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600" alt="Rainy Drappy GIF" />
