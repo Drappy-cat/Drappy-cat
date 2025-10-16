@@ -32,15 +32,15 @@
   <tr>
     <td align="left" width="60%">
       <p>
-          🚀 I'm a passionate <strong>informatic student</strong> in my third semester, deeply interested in the world of programming and technology.<br><br>
-        🎯 My current focus includes:
-        <ul>
-          <li>Frontend and backend Development for web development fundamental</li>
-          <li>Python for scripting and automation</li>
-          <li>Python for Machine Learning & Deep Learning</li>
+          🚀 As a third-semester informatics student, I'm driven by a fascination for how code can solve real-world problems and bring innovative ideas to life. My journey is anchored in building intelligent, efficient, and scalable software from the ground up .<br><br>
+    🎯 My primary focus is on Artificial Intelligence and Backend Development, where I love building intelligent and robust systems. 
+      <ul>
+          <li>🌱 I'm also a curious learner, actively expanding my skills into other exciting fields:</li>
+          <li>Web & Android Development to create engaging user experiences.</li>
+          <li> Web3 & Blockchain to explore the future of the decentralized web.</li>
+          <li>Machine Learning & Deep Learning</li>
         </ul>
-        🌱 Always open to learning something new — one keystroke at a time!
-      </p>
+            I am excited to connect these diverse fields, building bridges between intelligent data systems,     secure backends, and the decentralized technologies of tomorrow. I'm always ready for a new challenge!</p>
     </td>
     <td align="center" width="60%">
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHo5M3lzaGhtYzJoemRiOTFuODE4NmFoZDI2ZXpiampzamY5NmFkayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o6ZsZwsU65E0qcok8/giphy.gif" width="250" alt="Coder GIF" />
