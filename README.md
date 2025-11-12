@@ -139,7 +139,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Drappy-cat&theme=radical&hide_border=false&border_radius=15" height="150" alt="GitHub Streak"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drappy-cat&layout=compact&theme=radical&border_radius=15" height="150" alt="Top Languages"/>
   <img src="https://komarev.com/ghpvc/?username=Drappy-cat&color=blueviolet&style=flat-square" alt="Profile Views"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Drappy-cat&theme=radical&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 
 </p>
 
