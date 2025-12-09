@@ -50,6 +50,17 @@
 
 ---
 
+### 🏆 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **SugarChecker** | A health monitoring web application that calculates daily sugar intake limits based on user data and displays interactive visualizations. | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=F7DF1E) |
+| **KasirCerdas AI** | An intelligent Point of Sale (POS) system utilizing a microservices architecture with an AI engine for business insights. | ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) |
+| **Spectra Compare** | A cross-platform mobile application for comparing smartphone specifications with real-time data fetching. | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) |
+| **TechPilot** | AI-driven product recommendation system deployed on Hugging Face Spaces, featuring budget-based filtering. | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-gold) |
+
+---
+
 ### 🔗 Let's Connect!
 <div align="center">
   <a href="https://www.youtube.com/@RizmaIndra" target="_blank">
@@ -109,6 +120,10 @@
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch" />
   &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI" />
+  &nbsp;
 </p>
 
 #### 🧰 IDEs & Software Tools
@@ -160,3 +175,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+---
+
+<h3 align="left">☕ Support Me</h3>
+<p align="left">
+<a href="https://www.buymeacoffee.com/USERNAME" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40" width="150" >
+</a>
+</p>
+
