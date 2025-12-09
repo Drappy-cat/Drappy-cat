@@ -125,8 +125,8 @@
 
 ### 📈 Coding Activity
 <p align="center">
-  <a href="https://github.com/Drappy-cat">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Drappy-cat&theme=github-dark&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <a href="https://github.com/rizmaindra">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rizmaindra&theme=github-dark&area=true&hide_border=true" alt="GitHub Activity Graph" />
   </a>
 </p>
 
@@ -135,10 +135,10 @@
 <h2 align="center">📊 My GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Drappy-cat&show_icons=true&theme=radical&border_radius=15&hide_title=true" height="150" alt="Rizma's GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Drappy-cat&theme=radical&hide_border=false&border_radius=15" height="150" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drappy-cat&layout=compact&theme=radical&border_radius=15" height="150" alt="Top Languages"/>
-  <img src="https://komarev.com/ghpvc/?username=Drappy-cat&color=blueviolet&style=flat-square" alt="Profile Views"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rizmaindra&show_icons=true&theme=radical&border_radius=15&hide_title=true" height="150" alt="Rizma's GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rizmaindra&theme=radical&hide_border=false&border_radius=15" height="150" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizmaindra&layout=compact&theme=radical&border_radius=15" height="150" alt="Top Languages"/>
+  <img src="https://komarev.com/ghpvc/?username=rizmaindra&color=blueviolet&style=flat-square" alt="Profile Views"/>
 
 </p>
 
