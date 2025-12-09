@@ -140,9 +140,11 @@
 
 ### 📈 Coding Activity
 <p align="center">
+  <!-- 
   <a href="https://github.com/Drappy-cat">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Drappy-cat&theme=github-dark&area=true&hide_border=true" alt="GitHub Activity Graph" />
   </a>
+  -->
 </p>
 
 ---
