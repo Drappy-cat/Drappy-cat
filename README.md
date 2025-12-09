@@ -180,8 +180,8 @@ Here are some ideas to get you started:
 
 <h3 align="left">☕ Support Me</h3>
 <p align="left">
-<a href="https://www.buymeacoffee.com/USERNAME" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40" width="150" >
+<a href="https://saweria.co/drappy" target="_blank">
+  <img src="https://img.shields.io/badge/Saweria-faae2b?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Saweria" height="40" width="150" >
 </a>
 </p>
 
