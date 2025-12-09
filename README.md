@@ -183,5 +183,8 @@ Here are some ideas to get you started:
 <a href="https://saweria.co/drappy" target="_blank">
   <img src="https://img.shields.io/badge/Saweria-faae2b?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Saweria" height="40" width="150" >
 </a>
+<a href="https://tako.id/Drappy" target="_blank">
+  <img src="https://img.shields.io/badge/Tako.id-3384ea?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Tako.id" height="40" width="150" >
+</a>
 </p>
 
