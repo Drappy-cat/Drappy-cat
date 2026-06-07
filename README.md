@@ -12,33 +12,20 @@
   <em>"Just a coding cloud trying to drizzle some logic into the digital world."</em>
 </p>
 
----
-### ⚡ Fun Fact
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHpwbWQ0dzR3aTdoOWF3ZTI4Nmo2enVnM2E0cm1lYXlubGQwZnBrNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wyFbTKs9X99Yc/giphy.gif" width="300"/><br>
-</p>
-
-<ul align="left">
-  <li>🤖 I enjoy exploring the world of AI and solving logic problems like puzzles</li>
-  <li>💡 Turning coffee into code is basically my superpower</li>
-  <li>🎧 Coding with chill beats makes debugging feel like meditation</li>
-  <li>🛌 I write better code *after* a "short" nap... which may last 5 hours 😴</li>
-  <li>😂 Sometimes I debug better in my dreams than in real life</li>
-</ul>
-
----
 
 <table>
   <tr>
     <td align="left" width="60%">
       <p>
-          🚀 As a third-semester informatics student, I'm driven by a fascination for how code can solve real-world problems and bring innovative ideas to life. My journey is anchored in building intelligent, efficient, and scalable software from the ground up .<br><br>
-    🎯 My primary focus is on Artificial Intelligence and Backend Development, where I love building intelligent and robust systems. 
+           As a third-semester informatics student, I'm driven by a fascination for how code can solve real-world problems and bring innovative ideas to life. My journey is anchored in building intelligent, efficient, and scalable software from the ground up .<br><br>
+     My primary focus is on Artificial Intelligence and Backend Development, where I love building intelligent and robust systems. 
       <ul>
-          <li>🌱 I'm also a curious learner, actively expanding my skills into other exciting fields:</li>
-          <li>Web & Android Development to create engaging user experiences.</li>
+          <li> I'm also a curious learner, actively expanding my skills into other exciting fields:</li>
+          <li> Web & Android Development to create engaging user experiences.</li>
           <li> Web3 & Blockchain to explore the future of the decentralized web.</li>
-          <li>Machine Learning & Deep Learning</li>
+          <li> Machine Learning & Deep Learning</li>
         </ul>
             I am excited to connect these diverse fields, building bridges between intelligent data systems,     secure backends, and the decentralized technologies of tomorrow. I'm always ready for a new challenge!</p>
     </td>
@@ -50,7 +37,7 @@
 
 ---
 
-### 🏆 Featured Projects
+###  Featured Projects
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
@@ -84,9 +71,9 @@
 
 ---
 
-### 🛠️ Tech & Tools
+###  Tech & Tools
 
-#### 📚 Programming Languages
+####  Programming Languages
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
@@ -101,7 +88,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
 </p>
 
-<h4>⚙️ Framework & Library</h4>
+<h4> Framework & Library</h4>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" />
   &nbsp;
@@ -129,7 +116,7 @@
   &nbsp;
 </p>
 
-#### 🧰 IDEs & Software Tools
+####  IDEs & Software Tools
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ IDEA" />
@@ -142,7 +129,7 @@
 
 ---
 
-### 📈 Coding Activity
+###  Coding Activity
 <p align="center">
   <!-- 
   <a href="https://github.com/Drappy-cat">
@@ -153,7 +140,7 @@
 
 ---
 
-<h2 align="center">📊 My GitHub Stats</h2>
+<h2 align="center"> My GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Drappy-cat&theme=radical&hide_border=false&border_radius=15" height="150" alt="GitHub Streak"/>
@@ -182,7 +169,7 @@ Here are some ideas to get you started:
 
 ---
 
-<h3 align="left">☕ Support Me</h3>
+<h3 align="left"> Support Me</h3>
 <p align="left">
 <a href="https://saweria.co/drappy" target="_blank">
   <img src="https://img.shields.io/badge/Saweria-faae2b?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Saweria" height="40" width="150" >
